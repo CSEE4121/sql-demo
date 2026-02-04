@@ -108,6 +108,7 @@ INSERT INTO manufacturers (name, country, founded_year, website) VALUES
     ('EuroElectronics GmbH', 'Germany', 1992, 'https://euroelec.example.de'),
     ('AsiaManufacturing Ltd', 'Japan', 1978, 'https://asiamfg.example.jp'),
     ('Nordic Components', 'Sweden', 2001, 'https://nordic.example.se'),
+    ('Nokia', 'Finland', 1890, 'https://www.nokia.com'),
     ('Pacific Goods Co', 'Australia', 2010, NULL);  -- Note: NULL website
 
 -- Insert categories (including hierarchical structure)

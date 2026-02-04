@@ -19,10 +19,10 @@ Usage:
     createdb demo_db
 
     # Then run the demo:
-    python orm_demo.py
+    python3 orm_demo.py
 
     # Or specify a custom connection string:
-    DATABASE_URL=postgresql://user:pass@localhost/demo_db python orm_demo.py
+    DATABASE_URL=postgresql://user:pass@localhost/demo_db python3 orm_demo.py
 
 This will connect to PostgreSQL and run various examples.
 """

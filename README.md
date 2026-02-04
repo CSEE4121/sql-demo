@@ -1,6 +1,6 @@
-# Database Course Demonstration (PostgreSQL)
+# Databases Demonstration 1 (PostgreSQL)
 
-This demonstration package covers SQL fundamentals, advanced query patterns, ORM usage (good and bad), and performance optimization using PostgreSQL.
+This demonstration package covers SQL fundamentals, patterns, ORM usage (good and bad), and performance optimization using PostgreSQL.
 
 ## Files
 
@@ -41,6 +41,7 @@ or equivalent.
 ```bash
 pip install sqlalchemy psycopg2-binary
 ```
+We recommend [VSCode](https://code.visualstudio.com/) and [Postico](https://eggerapps.at/postico2/) as nice GUI tools.
 
 ## Running the SQL Demonstration
 
